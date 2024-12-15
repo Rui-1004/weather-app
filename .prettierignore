@@ -1,0 +1,12 @@
+# Ignore artifacts:
+build 
+coverage
+
+# Ignore configs:
+.prettierrc
+package-lock.json
+package.json
+eslint.config.mjs
+webpack.common.js
+webpack.dev.js
+webpack.prod.js
